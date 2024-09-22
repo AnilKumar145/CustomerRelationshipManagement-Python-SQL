@@ -1,0 +1,2 @@
+pandas
+sqlite3  # No need to explicitly install, comes with Python

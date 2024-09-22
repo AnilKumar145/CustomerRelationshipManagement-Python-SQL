@@ -1,0 +1,4 @@
+customer_id,product_id,quantity,sale_date
+1,1,2,2024-09-20
+2,2,1,2024-09-21
+3,3,5,2024-09-22

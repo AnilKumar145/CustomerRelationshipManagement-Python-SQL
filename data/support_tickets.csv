@@ -1,0 +1,4 @@
+customer_id,issue,status
+1,Issue with product,Open
+2,Inquiry about order,Resolved
+3,Need replacement,In Progress
